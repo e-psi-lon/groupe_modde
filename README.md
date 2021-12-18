@@ -1,2 +1,2 @@
-# groupe_modde
-Allez dans l'onglet wiki pour voir le guide d'installation
+# Comment installer le modpack ?
+Aller dans l'onglet wiki et suivre les instructions d'installation
