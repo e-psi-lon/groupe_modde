@@ -44,12 +44,12 @@
   "profileImagePath": null,
   "guid": "4e2ef974-c6a0-47bf-a5a6-a3d5f8678631",
   "gameTypeID": 432,
-  "installPath": "D:\\minecraft modde\\CurseForge\\Instances\\Groupe moddé\\",
+  "installPath": "D:\\minecraft modde\\CurseForge\\Instances\\groupe_modde-1\\",
   "name": "groupe_modde-1",
   "cachedScans": [],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2021-12-18T09:22:13.6836342Z",
-  "lastRefreshAttempt": "2021-12-18T10:22:13.6896236+01:00",
+  "lastPreviousMatchUpdate": "2021-12-18T18:31:11.8396636Z",
+  "lastRefreshAttempt": "2021-12-18T19:31:11.8546204+01:00",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -154,7 +154,7 @@
       "dateInstalled": "2021-12-17T15:49:26.4679789Z",
       "dateUpdated": "2021-12-17T15:49:26.4679789Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -260,7 +260,7 @@
       "dateInstalled": "2021-12-17T15:49:20.8218238Z",
       "dateUpdated": "2021-12-17T15:49:20.8218238Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -362,7 +362,7 @@
       "dateInstalled": "2021-12-17T15:49:26.4600132Z",
       "dateUpdated": "2021-12-17T15:49:26.4600132Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -459,7 +459,7 @@
       "dateInstalled": "2021-12-17T15:49:30.3079749Z",
       "dateUpdated": "2021-12-17T15:49:30.3079749Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -640,7 +640,7 @@
       "dateInstalled": "2021-12-17T15:49:22.1038395Z",
       "dateUpdated": "2021-12-17T15:49:22.1038395Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -736,7 +736,7 @@
       "dateInstalled": "2021-12-17T15:49:26.4679789Z",
       "dateUpdated": "2021-12-17T15:49:26.4679789Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -834,7 +834,7 @@
       "dateInstalled": "2021-12-17T15:49:20.8338444Z",
       "dateUpdated": "2021-12-17T15:49:20.8338444Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -931,7 +931,7 @@
       "dateInstalled": "2021-12-17T15:49:26.4679789Z",
       "dateUpdated": "2021-12-17T15:49:26.4679789Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1031,7 +1031,7 @@
       "dateInstalled": "2021-12-17T15:49:24.4600263Z",
       "dateUpdated": "2021-12-17T15:49:24.4600263Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1123,7 +1123,7 @@
       "dateInstalled": "2021-12-17T15:49:30.183978Z",
       "dateUpdated": "2021-12-17T15:49:30.183978Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1222,7 +1222,7 @@
       "dateInstalled": "2021-12-17T15:49:30.1799785Z",
       "dateUpdated": "2021-12-17T15:49:30.1799785Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1318,7 +1318,7 @@
       "dateInstalled": "2021-12-17T15:49:26.463977Z",
       "dateUpdated": "2021-12-17T15:49:26.463977Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1409,7 +1409,7 @@
       "dateInstalled": "2021-12-17T15:49:26.4679789Z",
       "dateUpdated": "2021-12-17T15:49:26.4679789Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1495,7 +1495,7 @@
       "dateInstalled": "2021-12-17T15:49:22.0958636Z",
       "dateUpdated": "2021-12-17T15:49:22.0958636Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1586,7 +1586,7 @@
       "dateInstalled": "2021-12-17T15:49:30.3079749Z",
       "dateUpdated": "2021-12-17T15:49:30.3079749Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1691,7 +1691,7 @@
       "dateInstalled": "2021-12-17T15:49:22.1078347Z",
       "dateUpdated": "2021-12-17T15:49:22.1078347Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1781,7 +1781,7 @@
       "dateInstalled": "2021-12-17T15:49:30.3079749Z",
       "dateUpdated": "2021-12-17T15:49:30.3079749Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1865,7 +1865,7 @@
       "dateInstalled": "2021-12-17T15:49:22.0998395Z",
       "dateUpdated": "2021-12-17T15:49:22.0998395Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1943,7 +1943,7 @@
       "dateInstalled": "2021-12-17T15:49:30.183978Z",
       "dateUpdated": "2021-12-17T15:49:30.183978Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2049,7 +2049,7 @@
       "dateInstalled": "2021-12-17T15:49:24.4639785Z",
       "dateUpdated": "2021-12-17T15:49:24.4639785Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2147,7 +2147,7 @@
       "dateInstalled": "2021-12-17T15:49:24.4639785Z",
       "dateUpdated": "2021-12-17T15:49:24.4639785Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2238,7 +2238,7 @@
       "dateInstalled": "2021-12-17T15:49:30.3039746Z",
       "dateUpdated": "2021-12-17T15:49:30.3039746Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2328,7 +2328,7 @@
       "dateInstalled": "2021-12-17T15:49:20.8298635Z",
       "dateUpdated": "2021-12-17T15:49:20.8298635Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2430,7 +2430,7 @@
       "dateInstalled": "2021-12-17T15:49:22.0998395Z",
       "dateUpdated": "2021-12-17T15:49:22.0998395Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2514,7 +2514,7 @@
       "dateInstalled": "2021-12-17T15:49:30.1879754Z",
       "dateUpdated": "2021-12-17T15:49:30.1879754Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2665,7 +2665,7 @@
       "dateInstalled": "2021-12-17T15:49:26.463977Z",
       "dateUpdated": "2021-12-17T15:49:26.463977Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2818,7 +2818,7 @@
       "dateInstalled": "2021-12-17T15:49:30.183978Z",
       "dateUpdated": "2021-12-17T15:49:30.183978Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2908,7 +2908,7 @@
       "dateInstalled": "2021-12-17T15:49:24.456038Z",
       "dateUpdated": "2021-12-17T15:49:24.456038Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3148,7 +3148,7 @@
       "dateInstalled": "2021-12-17T15:49:20.8338444Z",
       "dateUpdated": "2021-12-17T15:49:20.8338444Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3259,7 +3259,7 @@
       "dateInstalled": "2021-12-17T15:49:30.3119761Z",
       "dateUpdated": "2021-12-17T15:49:30.3119761Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3357,118 +3357,11 @@
       "dateInstalled": "2021-12-17T15:49:30.3039746Z",
       "dateUpdated": "2021-12-17T15:49:30.3039746Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
       "isModified": true,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 78320,
-      "gameInstanceID": "4e2ef974-c6a0-47bf-a5a6-a3d5f8678631",
-      "installedFile": {
-        "id": 2627678,
-        "displayName": "MoreFurnaces-1.12.2-1.10.6.jar",
-        "fileName": "MoreFurnaces-1.12.2-1.10.6.jar",
-        "fileDate": "2018-10-14T08:57:26.643Z",
-        "fileLength": 122332,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2627/678/MoreFurnaces-1.12.2-1.10.6.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 20511630,
-            "addonId": 244023,
-            "type": 3,
-            "fileId": 2627678
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 4062199460,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "cubex2",
-            "fingerprint": 475159399,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 4005606697,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3724582343,
-            "type": 3,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 1243940434,
-        "gameVersion": [
-          "1.12.1",
-          "1.12",
-          "1.12.2"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000012.0000000001",
-            "gameVersion": "1.12.1",
-            "gameVersionReleaseDate": "2017-08-03T05:00:00Z",
-            "gameVersionName": "1.12.1",
-            "gameVersionTypeId": 628
-          },
-          {
-            "gameVersionPadded": "0000000001.0000000012",
-            "gameVersion": "1.12",
-            "gameVersionReleaseDate": "2017-06-07T05:00:00Z",
-            "gameVersionName": "1.12",
-            "gameVersionTypeId": 628
-          },
-          {
-            "gameVersionPadded": "0000000001.0000000012.0000000002",
-            "gameVersion": "1.12.2",
-            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
-            "gameVersionName": "1.12.2",
-            "gameVersionTypeId": 628
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 1459526,
-        "projectId": 78320,
-        "packageFingerprintId": 270080812,
-        "gameVersionDateReleased": "2017-06-07T05:00:00Z",
-        "gameVersionMappingId": 1682468,
-        "gameVersionId": 6580,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "MoreFurnaces-1.12.2-1.10.6.jar"
-      },
-      "dateInstalled": "2021-12-17T15:49:26.4679789Z",
-      "dateUpdated": "2021-12-17T15:49:26.4679789Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -5096,7 +4989,114 @@
       "dateInstalled": "2021-12-17T15:49:30.4279744Z",
       "dateUpdated": "2021-12-17T15:49:30.4279744Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 78320,
+      "gameInstanceID": "4e2ef974-c6a0-47bf-a5a6-a3d5f8678631",
+      "installedFile": {
+        "id": 2627678,
+        "displayName": "MoreFurnaces-1.12.2-1.10.6.jar",
+        "fileName": "MoreFurnaces-1.12.2-1.10.6.jar",
+        "fileDate": "2018-10-14T08:57:26.643Z",
+        "fileLength": 122332,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2627/678/MoreFurnaces-1.12.2-1.10.6.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 20511630,
+            "addonId": 244023,
+            "type": 3,
+            "fileId": 2627678
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4062199460,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "cubex2",
+            "fingerprint": 475159399,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 4005606697,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3724582343,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1243940434,
+        "gameVersion": [
+          "1.12.1",
+          "1.12",
+          "1.12.2"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000001",
+            "gameVersion": "1.12.1",
+            "gameVersionReleaseDate": "2017-08-03T05:00:00Z",
+            "gameVersionName": "1.12.1",
+            "gameVersionTypeId": 628
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000012",
+            "gameVersion": "1.12",
+            "gameVersionReleaseDate": "2017-06-07T05:00:00Z",
+            "gameVersionName": "1.12",
+            "gameVersionTypeId": 628
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000002",
+            "gameVersion": "1.12.2",
+            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+            "gameVersionName": "1.12.2",
+            "gameVersionTypeId": 628
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1459526,
+        "projectId": 78320,
+        "packageFingerprintId": 270080812,
+        "gameVersionDateReleased": "2017-06-07T05:00:00Z",
+        "gameVersionMappingId": 1682468,
+        "gameVersionId": 6580,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "MoreFurnaces-1.12.2-1.10.6.jar"
+      },
+      "dateInstalled": "2021-12-17T15:49:26.4679789Z",
+      "dateUpdated": "2021-12-17T15:49:26.4679789Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5194,7 +5194,7 @@
       "dateInstalled": "2021-12-17T15:49:22.0958636Z",
       "dateUpdated": "2021-12-17T15:49:22.0958636Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5284,11 +5284,114 @@
       "dateInstalled": "2021-12-17T15:49:26.463977Z",
       "dateUpdated": "2021-12-17T15:49:26.463977Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
       "isModified": true,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 250957,
+      "gameInstanceID": "4e2ef974-c6a0-47bf-a5a6-a3d5f8678631",
+      "installedFile": {
+        "id": 2630860,
+        "displayName": "TinkerToolLeveling-1.12.2-1.1.0.jar",
+        "fileName": "TinkerToolLeveling-1.12.2-1.1.0.jar",
+        "fileDate": "2018-10-23T17:43:40.243Z",
+        "fileLength": 95850,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2630/860/TinkerToolLeveling-1.12.2-1.1.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 20720169,
+            "addonId": 74924,
+            "type": 3,
+            "fileId": 2630860
+          },
+          {
+            "id": 20720170,
+            "addonId": 74072,
+            "type": 3,
+            "fileId": 2630860
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3869564845,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "slimeknights",
+            "fingerprint": 3257431995,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 881944842,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 61804168,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 15427281,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1563429384,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000002",
+            "gameVersion": "1.12.2",
+            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+            "gameVersionName": "1.12.2",
+            "gameVersionTypeId": 628
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1463328,
+        "projectId": 250957,
+        "packageFingerprintId": 271707879,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionMappingId": 1687335,
+        "gameVersionId": 4458,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "TinkerToolLeveling-1.12.2-1.1.0.jar"
+      },
+      "dateInstalled": "2021-12-17T15:49:30.471975Z",
+      "dateUpdated": "2021-12-17T15:49:30.471975Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -5400,109 +5503,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 250957,
-      "gameInstanceID": "4e2ef974-c6a0-47bf-a5a6-a3d5f8678631",
-      "installedFile": {
-        "id": 2630860,
-        "displayName": "TinkerToolLeveling-1.12.2-1.1.0.jar",
-        "fileName": "TinkerToolLeveling-1.12.2-1.1.0.jar",
-        "fileDate": "2018-10-23T17:43:40.243Z",
-        "fileLength": 95850,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2630/860/TinkerToolLeveling-1.12.2-1.1.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 20720169,
-            "addonId": 74924,
-            "type": 3,
-            "fileId": 2630860
-          },
-          {
-            "id": 20720170,
-            "addonId": 74072,
-            "type": 3,
-            "fileId": 2630860
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3869564845,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "slimeknights",
-            "fingerprint": 3257431995,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 881944842,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 61804168,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 15427281,
-            "type": 3,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 1563429384,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000012.0000000002",
-            "gameVersion": "1.12.2",
-            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
-            "gameVersionName": "1.12.2",
-            "gameVersionTypeId": 628
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 1463328,
-        "projectId": 250957,
-        "packageFingerprintId": 271707879,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameVersionMappingId": 1687335,
-        "gameVersionId": 4458,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "TinkerToolLeveling-1.12.2-1.1.0.jar"
-      },
-      "dateInstalled": "2021-12-17T15:49:30.471975Z",
-      "dateUpdated": "2021-12-17T15:49:30.471975Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 291786,
       "gameInstanceID": "4e2ef974-c6a0-47bf-a5a6-a3d5f8678631",
       "installedFile": {
@@ -5594,7 +5594,7 @@
       "dateInstalled": "2021-12-17T15:49:30.183978Z",
       "dateUpdated": "2021-12-17T15:49:30.183978Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5685,7 +5685,7 @@
       "dateInstalled": "2021-12-17T15:49:22.0998395Z",
       "dateUpdated": "2021-12-17T15:49:22.0998395Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5782,97 +5782,7 @@
       "dateInstalled": "2021-12-17T15:49:30.3039746Z",
       "dateUpdated": "2021-12-17T15:49:30.3039746Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 238222,
-      "gameInstanceID": "4e2ef974-c6a0-47bf-a5a6-a3d5f8678631",
-      "installedFile": {
-        "id": 3043174,
-        "displayName": "jei_1.12.2-4.16.1.302.jar",
-        "fileName": "jei_1.12.2-4.16.1.302.jar",
-        "fileDate": "2020-08-27T01:47:46.263Z",
-        "fileLength": 653210,
-        "releaseType": 2,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3043/174/jei_1.12.2-4.16.1.302.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 457918307,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "mezz",
-            "fingerprint": 2799571216,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 1488642189,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 3001924313,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 9943101,
-            "type": 3,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 1065578237,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000012.0000000002",
-            "gameVersion": "1.12.2",
-            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
-            "gameVersionName": "1.12.2",
-            "gameVersionTypeId": 628
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": true,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 1970605,
-        "projectId": 238222,
-        "packageFingerprintId": 512127697,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameVersionMappingId": 2399976,
-        "gameVersionId": 4458,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "jei_1.12.2-4.16.1.302.jar"
-      },
-      "dateInstalled": "2021-12-17T15:49:26.463977Z",
-      "dateUpdated": "2021-12-17T15:49:26.463977Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5962,7 +5872,97 @@
       "dateInstalled": "2021-12-17T15:49:22.0958636Z",
       "dateUpdated": "2021-12-17T15:49:22.0958636Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 238222,
+      "gameInstanceID": "4e2ef974-c6a0-47bf-a5a6-a3d5f8678631",
+      "installedFile": {
+        "id": 3043174,
+        "displayName": "jei_1.12.2-4.16.1.302.jar",
+        "fileName": "jei_1.12.2-4.16.1.302.jar",
+        "fileDate": "2020-08-27T01:47:46.263Z",
+        "fileLength": 653210,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3043/174/jei_1.12.2-4.16.1.302.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 457918307,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mezz",
+            "fingerprint": 2799571216,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1488642189,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3001924313,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 9943101,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1065578237,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000002",
+            "gameVersion": "1.12.2",
+            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+            "gameVersionName": "1.12.2",
+            "gameVersionTypeId": 628
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1970605,
+        "projectId": 238222,
+        "packageFingerprintId": 512127697,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionMappingId": 2399976,
+        "gameVersionId": 4458,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "jei_1.12.2-4.16.1.302.jar"
+      },
+      "dateInstalled": "2021-12-17T15:49:26.463977Z",
+      "dateUpdated": "2021-12-17T15:49:26.463977Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6059,7 +6059,7 @@
       "dateInstalled": "2021-12-17T15:49:30.3119761Z",
       "dateUpdated": "2021-12-17T15:49:30.3119761Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6176,7 +6176,97 @@
       "dateInstalled": "2021-12-17T15:49:30.3119761Z",
       "dateUpdated": "2021-12-17T15:49:30.3119761Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 250832,
+      "gameInstanceID": "4e2ef974-c6a0-47bf-a5a6-a3d5f8678631",
+      "installedFile": {
+        "id": 2845365,
+        "displayName": "ElevatorMod-1.12.2-1.3.14.jar",
+        "fileName": "ElevatorMod-1.12.2-1.3.14.jar",
+        "fileDate": "2019-12-19T17:27:36.863Z",
+        "fileLength": 108444,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2845/365/ElevatorMod-1.12.2-1.3.14.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3710915868,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "xyz",
+            "fingerprint": 2391345268,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2344143236,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3808494126,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 695445981,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2428811536,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000002",
+            "gameVersion": "1.12.2",
+            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+            "gameVersionName": "1.12.2",
+            "gameVersionTypeId": 628
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1724432,
+        "projectId": 250832,
+        "packageFingerprintId": 389306611,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameVersionMappingId": 2035915,
+        "gameVersionId": 6756,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "ElevatorMod-1.12.2-1.3.14.jar"
+      },
+      "dateInstalled": "2021-12-17T15:49:24.4600263Z",
+      "dateUpdated": "2021-12-17T15:49:24.4600263Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6282,97 +6372,7 @@
       "dateInstalled": "2021-12-17T15:49:26.463977Z",
       "dateUpdated": "2021-12-17T15:49:26.463977Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 250832,
-      "gameInstanceID": "4e2ef974-c6a0-47bf-a5a6-a3d5f8678631",
-      "installedFile": {
-        "id": 2845365,
-        "displayName": "ElevatorMod-1.12.2-1.3.14.jar",
-        "fileName": "ElevatorMod-1.12.2-1.3.14.jar",
-        "fileDate": "2019-12-19T17:27:36.863Z",
-        "fileLength": 108444,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2845/365/ElevatorMod-1.12.2-1.3.14.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3710915868,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "xyz",
-            "fingerprint": 2391345268,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 2344143236,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 3808494126,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 695445981,
-            "type": 3,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 2428811536,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000012.0000000002",
-            "gameVersion": "1.12.2",
-            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
-            "gameVersionName": "1.12.2",
-            "gameVersionTypeId": 628
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": true,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 1724432,
-        "projectId": 250832,
-        "packageFingerprintId": 389306611,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
-        "gameVersionMappingId": 2035915,
-        "gameVersionId": 6756,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "ElevatorMod-1.12.2-1.3.14.jar"
-      },
-      "dateInstalled": "2021-12-17T15:49:24.4600263Z",
-      "dateUpdated": "2021-12-17T15:49:24.4600263Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6456,7 +6456,7 @@
       "dateInstalled": "2021-12-17T15:49:22.1038395Z",
       "dateUpdated": "2021-12-17T15:49:22.1038395Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6540,7 +6540,7 @@
       "dateInstalled": "2021-12-17T15:49:26.4679789Z",
       "dateUpdated": "2021-12-17T15:49:26.4679789Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6660,7 +6660,7 @@
       "dateInstalled": "2021-12-17T15:49:20.8338444Z",
       "dateUpdated": "2021-12-17T15:49:20.8338444Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6777,7 +6777,7 @@
       "dateInstalled": "2021-12-17T15:49:24.4600263Z",
       "dateUpdated": "2021-12-17T15:49:24.4600263Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
